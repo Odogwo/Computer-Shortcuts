@@ -1,0 +1,28 @@
+Windows key + E: Open File Explorer.
+Alt + D: Select the address bar in File Explorer.
+Ctrl + N: Open a new File Explorer window.
+Backspace: Go up one level in File Explorer.
+Alt + Left Arrow: Go back in File Explorer history.
+Alt + Right Arrow: Go forward in File Explorer history.
+F2: Rename a selected file or folder.
+Ctrl + X: Cut selected files or folders.
+Ctrl + C: Copy selected files or folders.
+Ctrl + V: Paste cut or copied files or folders.
+Delete: Delete selected files or folders (moves them to the Recycle Bin).
+Shift + Delete: Permanently delete selected files or folders without moving to the Recycle Bin.
+
+File Explorer:
+
+Open File Explorer by pressing the Windows key + E.
+Navigate to the location where you want to create the folder.
+Right-click in the empty space.
+Hover over "New" in the context menu.
+Select "Folder."
+Shortcut Key:
+
+Press Ctrl + Shift + N to create a new folder directly in File Explorer.
+
+COMMAND LINE
+
+create a folder in a specific location
+mkdir C:\Path\To\YourFolder

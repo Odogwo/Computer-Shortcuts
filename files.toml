@@ -1,0 +1,26 @@
+
+create a file 
+echo. > filename.txt
+type nul > filename.txt
+
+create an Overwrite File:
+echo Hello, this is a line of text. > example.txt
+echo Your text here > filename.txt
+
+Append to File:
+echo Appending a new line of text. >> example.txt
+echo More text here >> filename.txt
+
+echo Your text here | type > filename.txt
+echo More text here | type >> filename.txt
+
+open a file 
+notepad file.txt
+
+
+
+
+overwrite : Create or Edit a File with echo and >:
+echo Your text here > filename.txt
+
+create and Append to a File with echo and >>:
