@@ -1,0 +1,87 @@
+Alt + D
+
+Select the address bar.
+
+Ctrl + E
+
+Select the search box.
+
+Ctrl + F
+
+Select the search box.
+
+Ctrl + N
+
+Open a new window.
+
+Ctrl + W
+
+Close the active window.
+
+Ctrl + mouse scroll wheel
+
+Change the size and appearance of file and folder icons.
+
+Ctrl + Shift + E
+
+Display all folders above the selected folder.
+
+Ctrl + Shift + N
+
+Create a new folder.
+
+Num Lock + asterisk (*)
+
+Display all subfolders under the selected folder.
+
+Num Lock + plus (+)
+
+Display the contents of the selected folder.
+
+Num Lock + minus (-)
+
+Collapse the selected folder.
+
+Alt + P
+
+Display the preview panel.
+
+Alt + Enter
+
+Open the Properties dialog box for the selected item.
+
+Alt + Right arrow
+
+View the next folder.
+
+Alt + Up arrow
+
+View the folder that the folder was in.
+
+Alt + Left arrow
+
+View the previous folder.
+
+Backspace
+
+View the previous folder.
+
+Right arrow
+
+Display the current selection (if it's collapsed), or select the first subfolder.
+
+Left arrow
+
+Collapse the current selection (if it's expanded), or select the folder that the folder was in.
+
+End
+
+Display the bottom of the active window.
+
+Home
+
+Display the top of the active window.
+
+F11
+
+Maximize or minimize the active window.

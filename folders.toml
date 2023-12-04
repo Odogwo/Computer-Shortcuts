@@ -1,4 +1,10 @@
+
+[" file explorer"]
+
+
 Windows key + E: Open File Explorer.
+
+
 Alt + D: Select the address bar in File Explorer.
 Ctrl + N: Open a new File Explorer window.
 Backspace: Go up one level in File Explorer.
@@ -20,9 +26,19 @@ Hover over "New" in the context menu.
 Select "Folder."
 Shortcut Key:
 
-Press Ctrl + Shift + N to create a new folder directly in File Explorer.
+
 
 COMMAND LINE
 
-create a folder in a specific location
-mkdir C:\Path\To\YourFolder
+[create]
+
+"CMD- create a folder in a specific location" = """
+	mkdir C:\Path\To\YourFolder
+"""
+"file exploere location" = """
+Pressing the Windows key + E	
+	PCtrl + Shift + N
+"""
+
+"creat and move into folderfolder"  = " mkdir temp && cd temp"
+
