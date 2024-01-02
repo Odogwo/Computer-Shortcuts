@@ -54,3 +54,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 — Mona the Octocat
 ```
+
+
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
