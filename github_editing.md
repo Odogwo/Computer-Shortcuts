@@ -45,3 +45,12 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 |     3| SQL       |
 
 </details>
+
+
+**Quotes**
+```
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+```
