@@ -60,7 +60,14 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 — Mona the Octocat
 
+```
+## About me
+
+<!-- TO DO: add more details about me later -->
+```
 
 ## About me
 
 <!-- TO DO: add more details about me later -->
+
+
